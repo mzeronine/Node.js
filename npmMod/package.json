@@ -1,0 +1,25 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "Meghan Vaze node trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzeronine/Node.js.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Meghan Vaze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzeronine/Node.js/issues"
+  },
+  "homepage": "https://github.com/mzeronine/Node.js#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
